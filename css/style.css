@@ -1,0 +1,14 @@
+body{
+    height:5000px;
+}
+
+nav{
+position: fixed !important;
+width: 100%;
+top:0px;
+left:0px;
+transition: all 1s;
+}
+p{
+    margin-top: 70px !important;
+}
